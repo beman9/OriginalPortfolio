@@ -1,4 +1,4 @@
-# coltonbehannon.github.io
+# coltonbehannon
 Portfolio showing some of my data science work and projects
 
 # [Project 1: League of Legends Victory Analysis](https://github.com/coltonbehannon/LOL-Victory-Analysis/blob/main/LeagueofLegends_Victory_Analysis.pdf)
