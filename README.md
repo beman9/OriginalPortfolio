@@ -7,7 +7,7 @@ Click title for full .pdf report or [here](https://github.com/coltonbehannon/LOL
 ![](images/LOL_BlueTeamGold.png)
 
 # [Housing Price Analysis](https://github.com/coltonbehannon/Housing-Price-Analysis-SAS/blob/main/Housing%20Price%20Analysis.pdf)
-* Built several models within SAS to come up with the best framework for estimating the real cost of a home so that no money is left on the table when selling your home. This proect was completed using SAS.
+* Built several models within SAS to come up with the best framework for estimating the real cost of a home so that no money is left on the table when selling your home. This project was completed using SAS.
 ![](images/SAS_Links.png)
 
 
