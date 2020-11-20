@@ -5,3 +5,6 @@ Portfolio showing some of my data science work and projects
 * Built a k-nearest neighbor classifier to predict the victorious team in a League of Legends match based on the first 10 minutes of gameplay
 Click title for full .pdf report or [here](https://github.com/coltonbehannon/LOL-Victory-Analysis/blob/main/LeagueOfLegends_VictoryPredictions.Rmd) for the R-Markdown file.
 ![](images/LOL_BlueTeamGold.png)
+
+# Project 2: Housing Price Analysis
+* Built several models within SAS to come up with the best framework for estimating the real cost of a home so that no money is left on the table when selling your home.
