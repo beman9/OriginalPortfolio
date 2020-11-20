@@ -17,16 +17,20 @@ Click title for full .pdf report or [here](https://github.com/coltonbehannon/LOL
 # [To-Do List](https://github.com/coltonbehannon/Coding-Projects-Teaching/blob/main/To-Do%20List/main.py)
 * This project was great for getting students excited about coding by creating a relatively large project that they could actually use. This was usually the first big project after going over the basics with students.
 * The project creates a to-do list that can be interacted with straight from the terminal.
+
 ![](images/To-DoList.PNG)
 
 # [Guess the Number](https://github.com/coltonbehannon/Coding-Projects-Teaching/blob/main/Guess%20The%20Number/main.py)
 * This project was taught early in the lessons as it is pretty simple and creates something fun that students can show their friends and family.
+
 ![](images/GuessTheNumber.PNG)
 
 # [Youtube Downloader](https://github.com/coltonbehannon/Coding-Projects-Teaching/blob/main/Youtube%20Video%20Downloader/Youtube%20Downloader.py)
 * This is the code for a Youtube video downloader I helped a student build that was interested in downloading Youtube videos without having to use sketchy online downloaders.
+
 ![](images/YoutubeDownloader.PNG)
 
 # [Space Invaders](https://github.com/coltonbehannon/Coding-Projects-Teaching/tree/main/Invaders%20Game)
 * This folder is full of the files I used to teach how to create a Space Invaders arcade game replica during my time as a coding instructor. Though I spent a lot of time building this project and making fun edits with students I am not the original creator and the original video can be found [here](https://youtu.be/FfWpgLFMI7w).
+
 ![](images/SpaceInvaders.PNG)
