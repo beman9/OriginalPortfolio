@@ -8,7 +8,6 @@ Click title for full .pdf report or [here](https://github.com/coltonbehannon/LOL
 
 # [MLB Salary Prediction - Pitchers](https://github.com/coltonbehannon/MLB-Salary-Prediction-Pitchers/blob/main/MLBSalaryPrediction-Pitchers.pdf)
 * Uses the stats recorded for pitchers, from 2003 to 2016, to classify their salary bracket based on their performance using several machine learning techniques.
-
 ![](images/MLBSalary_3dProjections.PNG)
 
 # [Housing Price Analysis](https://github.com/coltonbehannon/Housing-Price-Analysis-SAS/blob/main/Housing%20Price%20Analysis.pdf)
